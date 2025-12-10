@@ -34,12 +34,12 @@ All games are built using **HTML, CSS, and JavaScript**, and are perfect for pra
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/js-games.git
+git clone (https://github.com/anand880441-source/Games/
 ```
 
 2. Netlify Link:
 ```bash
-git clone https://github.com/your-username/js-games.git
+[git clone https://github.com/your-username/js-games.git](https://spinogames.netlify.app/)
 ```
 
 # ©️Enjoy Games by SPINO #
