@@ -34,7 +34,7 @@ All games are built using **HTML, CSS, and JavaScript**, and are perfect for pra
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/anand880441-source/Games/
+git clone https://github.com/anand880441-source/Games/tree/main
 ```
 
 2. Netlify Link:
